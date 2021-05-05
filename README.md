@@ -1,4 +1,5 @@
 🇬🇧 English : 
+
 👋 Hey Hello This Profile is the Official Account of Archex & Ghost Development Being Aware of Infrastructures Don't forget to follow it
 
 🔧 Archex Team <3
@@ -27,7 +28,8 @@
 👻 **[Ghost Bot WebSite](http://www.ghost-bot.gq)**
 
 
-☪ Turkish
+🇹🇷 Turkish
+
 👋 Hey Merhaba Bu Profil Archex & Ghost Development Resmi Hesabıdır Altyapılardan Haberdar Olmak İstiyorsan Takip Etmeyi Unutma 
 
 🔧 Archex Team <3
