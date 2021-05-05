@@ -28,6 +28,8 @@
 👻 **[Ghost Bot WebSite](http://www.ghost-bot.gq)**
 
 
+------------------------------------------------------------------------------------------
+
 🇹🇷 Turkish
 
 👋 Hey Merhaba Bu Profil Archex & Ghost Development Resmi Hesabıdır Altyapılardan Haberdar Olmak İstiyorsan Takip Etmeyi Unutma 
