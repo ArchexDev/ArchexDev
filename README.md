@@ -17,6 +17,7 @@
  **:bulb: SSS** : https://discord.gg/qDsQzjb5gN 
  
 **Note : This profile picture and only account.!**
+
 **Not : Bu Profli Resmi Ve Tek Hesaptır!**
 
 **Bizle Alakalı : Biz discordda bot kodlayan , website kodlayan bir ekibiz ve şuana kadar birçok projemiz oldu Ghost Bot Onaylı Botumuzdur Eklemek İçin Aşağıda Link Var 😉**
